@@ -1,0 +1,8 @@
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\bin\Debug\Teste do GitHub.exe.config
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\bin\Debug\Teste do GitHub.exe
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\bin\Debug\Teste do GitHub.pdb
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\obj\Debug\Teste do GitHub.csproj.AssemblyReference.cache
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\obj\Debug\Teste do GitHub.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\obj\Debug\Teste do GitHub.csproj.CoreCompileInputs.cache
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\obj\Debug\Teste do GitHub.exe
+C:\Users\joao.vbsantos37\source\repos\Teste do GitHub\obj\Debug\Teste do GitHub.pdb
